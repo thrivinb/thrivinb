@@ -10,7 +10,9 @@ Currently, I am focusing on building my technical capabilities through software 
 
 With my early exposure to public speaking, sport and leadership, I have also honed a knack for effective communication and excelling in team environments. I want to make the best out of these skills to accelerate my learning journey and achieve my vision.
 
-Soon, I will be able to bring all of you to my personal website once I am done building it! Until then, hope my LinkedIn profile (https://www.linkedin.com/in/vineethbuddha/) suffices. For any queries or opportunities, do email me at buddhavineeth@gmail.com or message me on LinkedIn directly.
+Check out my work here on GitHub or on vineethbuddha.com
+
+For any queries or opportunities, do email me at buddhavineeth@gmail.com or message me on LinkedIn directly.
 
 Have a great day and thank you for stopping by! 
 
