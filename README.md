@@ -1,32 +1,8 @@
-## Hello world! I'm Vineeth. 👋
+My name is Vineeth. I'm a software engineer currently working at PayPal, in Singapore 🇸🇬.
 
-Welcome to my GitHub.
+I've graduated from National University of Singapore (NUS) with Highest Distinction in a Bachelor's degree in Computer Science. I was awarded the top-tier NUS Global Merit Scholarship and was also recognised in the Dean's List.
 
-I am a Computer Science undergraduate scholar from the National University of Singapore.
+Professionally, I seek opportunities in full-stack software engineering, where I can either make use of my past experiences in Java, React, JavaScript, Python, C++ or learn new technologies altogether!
 
-I am deeply interested in building meaningful products that can deliver high-value to people. I have big dreams of becoming a highly competent Full-Stack Software Engineer who can offer tremendous value to organisations and consumers.
+Being able to both design and develop is a lot of fun. When you have an idea, there’s nothing holding you back from building it.
 
-Currently, I am focusing on building my technical capabilities through software development internships, self-initiated projects and proactive learning.
-
-With my early exposure to public speaking, sport and leadership, I have also honed a knack for effective communication and excelling in team environments. I want to make the best out of these skills to accelerate my learning journey and achieve my vision.
-
-Check out my work here on GitHub or on vineethbuddha.com
-
-For any queries or opportunities, do email me at buddhavineeth@gmail.com or message me on LinkedIn directly.
-
-Have a great day and thank you for stopping by! 
-
-<!--
-**vineethbuddha/vineethbuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
